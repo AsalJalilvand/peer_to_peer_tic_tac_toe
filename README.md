@@ -1,4 +1,6 @@
 ### Peer-to-peer tic-tac-toe
+[![Generic badge](https://img.shields.io/badge/Java->%3D1.8-green)](https://shields.io/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 Project for Computer Networking, fall 2016, Shahid Beheshti University.
 
